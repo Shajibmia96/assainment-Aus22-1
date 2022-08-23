@@ -36,8 +36,10 @@ body{
    background-image: linear-gradient( orange , red);
    text-decoration: none;
    color: azure;
-  
+    margin-top: 30px;
    padding: 10px 5px;
+   margin-bottom: 30px;
+
   
 }
 
@@ -77,7 +79,7 @@ body{
     
 }
 .middle-2{
-    margin-left: 700px;
+    margin-left: 500px;
 }
 .doller{
     color: gray;
@@ -99,6 +101,83 @@ body{
 .section-two{
     text-align: center;
 }
+.other{
+    margin-bottom: 30px;
+}
+hr{
+    margin-bottom: 30px;
+}
+
+   /* close section -two */
+   .plan{
+    font-size: 50px;
+    font-weight: bold;
+   }
+   .section-three{
+    text-align: center;
+    margin-top: 130px;
+    margin-left: 500px;
+    margin-bottom: 100px;
+   }
+   .img-1{
+    width: 50px;
+    height: 50px;
+   }
+   .donation{
+    width: 350px;
+    height: 360px;
+    text-align: justify;
+    background-color:rgb(155, 183, 219) ;
+    padding: 10px 15px;
+    margin-left: 110px;
+   
+   }
+   .donation-3{
+    width: 350px;
+    height: 360px;
+    text-align: justify;
+    background-color:rgb(189, 219, 155) ;
+    padding: 10px 15px;
+    margin-left: 110px;
+   }
+   .donation-2{
+    width: 350px;
+    height: 360px;
+    text-align: justify;
+    background-color:rgb(155, 219, 198) ;
+    padding: 10px 15px;
+    margin-left: 110px;
+   }
+   .blood{
+    text-align: center;
+    margin-bottom: 10px;
+   }
+   .hand{
+    margin-bottom: 30px; 
+    margin-top: 20px;
+    font-size: 30px;
+   }
+   .population{
+    display: flex;
+   }
+   .info{
+    width: 50%;
+    margin-left: 100px;
+   }
+   .explan{
+    width: 50%;
+    margin-bottom: 40px;
+    text-align: justify;
+    
+   }
+   /* .explan h1{
+    margin-bottom: 100px; */
+   
+   .added-img{
+    width: 50%;
+   }
+
+  
 
 
 
